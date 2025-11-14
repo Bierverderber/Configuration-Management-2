@@ -1,6 +1,6 @@
 {
-    "package_name": "freeradius",
-    "repository_url": "http://archive.ubuntu.com/ubuntu/dists/focal/main/binary-amd64",
+    "package_name": "A",
+    "repository_url": "test.txt",
     "test_repository_mode": true,
     "version": "3.0.20+dfsg-3build1",
     "output_filename": "test_dependencies.svg",
