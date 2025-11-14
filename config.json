@@ -1,8 +1,8 @@
 {
-    "package_name": "test-package",
-    "repository_url": "./test_repo",
+    "package_name": "freeradius",
+    "repository_url": "http://archive.ubuntu.com/ubuntu/dists/focal/main/binary-amd64",
     "test_repository_mode": true,
-    "version": "2.3.1",
+    "version": "3.0.20+dfsg-3build1",
     "output_filename": "test_dependencies.svg",
     "ascii_tree_output": false,
     "filter_substring": "dev"
